@@ -1,0 +1,18 @@
+D:\Project\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe.config
+D:\Project\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.csprojResolveAssemblyReference.cache
+D:\Project\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe
+D:\Project\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.pdb
+D:\Project\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.exe
+D:\Project\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.pdb
+D:\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe.config
+D:\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.exe
+D:\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.pdb
+D:\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe
+D:\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.pdb
+D:\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.csprojResolveAssemblyReference.cache
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe.config
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.exe
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.pdb
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.exe
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\bin\Debug\SistemManajemenBank.pdb
+D:\DATA\DATA D\SistemManajemenBank\SistemManajemenBank\obj\Debug\SistemManajemenBank.csprojResolveAssemblyReference.cache
